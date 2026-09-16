@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4H7qWB4VJEgBsLtGVG/giphy.gif" width="450" alt="The Last of Us" style="border-radius: 10px;" />
+<img src="https://media.giphy.com/media/4H7qWB4VJEgBsLtGVG/giphy.gif" width="450" alt="The Last of Us" />
 </div>
 
 ---
@@ -33,5 +33,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif" width="380" alt="Homer Simpson typing fast" style="border-radius: 10px;" />
+<img src="https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif" width="380" alt="Homer Simpson typing fast" />
 </div>
