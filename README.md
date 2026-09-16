@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Picant+codi+de+tant+en+tant...)](https://git.io/typing-svg)
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN0aTB2aHBmajljczkxOThiNjFpeGJjb2R2NjQ2YjJydDVyYzEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IFXVr2zDLAw7u/giphy.gif
-
-
 ---
 
 ### 💻 SOBRE MI
@@ -13,10 +10,11 @@ https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN0aTB2aHBmajljczkxOThiNjFpeG
 
 ---
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/4H7qWB4VJEgBsLtGVG/giphy.gif" width="450" alt="The Last of Us" style="border-radius: 10px;" />
+</div>
 
 ---
-
 
 ### 🛠️ Eines i Llenguatges
 
@@ -35,5 +33,5 @@ https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN0aTB2aHBmajljczkxOThiNjFpeG
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif" width="380" alt="Homer Simpson typing fast" />
+  <img src="https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif" width="380" alt="Homer Simpson typing fast" style="border-radius: 10px;" />
 </div>
