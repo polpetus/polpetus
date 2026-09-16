@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Picant+codi+de+tant+en+tant...)](https://git.io/typing-svg)
 
-[https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif](https://media.giphy.com/media/13Hgw8T855x5a8/giphy.gif)
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN0aTB2aHBmajljczkxOThiNjFpeGJjb2R2NjQ2YjJydDVyYzEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IFXVr2zDLAw7u/giphy.gif)
+
 
 ---
 
