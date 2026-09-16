@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Estudiant+de+desenvolupament+de+programari;Piquant+codi+amb+IntelliJ+IDEA...;Ruta+cap+a+l'Enginyeria+Inform%C3%A0tica+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Estudiant+de+desenvolupament+d'aplicacions+multiplataforma;Picant+codi+de+tant+en+tant...;Ruta+cap+a+l'Enginyeria+Inform%C3%A0tica+🚀)](https://git.io/typing-svg)
 
 ---
 
