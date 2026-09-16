@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Estudiant+de+desenvolupament+d'aplicacions;+multiplataforma;Picant+codi+de+tant+en+tant...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=38BDF8&multiline=true&width=450&height=80&lines=Hola!+Soc+en+Pol+Mir%C3%B3+👋;Picant+codi+de+tant+en+tant...)](https://git.io/typing-svg)
 
 ---
 
@@ -22,7 +22,7 @@
 >[!NOTE]
 >📫 **Contacte:**
 >>- 🏫 Institut: [pol.miror.7ea@itb.cat](mailto:pol.miror.7ea@itb.cat)
->- 📧 Personal: [polmiroruiz@gmail.com](mailto:polmiroruiz@gmail.com)
+>>- 📧 Personal: [polmiroruiz@gmail.com](mailto:polmiroruiz@gmail.com)
 
 ---
 
