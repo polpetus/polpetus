@@ -9,10 +9,9 @@
 - 🎯 **Objectiu:** Construir una bona base de programació per fer el salt a l'**Enginyeria Informàtica**.
 
 ---
+<p align="center"Z>
+<img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/f57f31a6-cea8-45d4-b678-4e7e26f7a7c3" />
 
-<div align="center">
-<img src="https://media.giphy.com/media/4H7qWB4VJEgBsLtGVG/giphy.gif" width="450" alt="The Last of Us" />
-</div>
 
 ---
 
