@@ -10,7 +10,8 @@
 
 ---
 <p align="center"Z>
-<img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/f57f31a6-cea8-45d4-b678-4e7e26f7a7c3" />
+<img width="332" height="320" alt="giphy" src="https://github.com/user-attachments/assets/95003fdb-ca5c-4bc1-a19d-0bdfecad4ff2" />
+
 
 
 ---
